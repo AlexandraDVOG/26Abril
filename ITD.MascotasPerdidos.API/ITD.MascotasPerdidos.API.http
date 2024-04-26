@@ -1,0 +1,6 @@
+@ITD.MascotasPerdidos.API_HostAddress = http://localhost:5030
+
+GET {{ITD.MascotasPerdidos.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
